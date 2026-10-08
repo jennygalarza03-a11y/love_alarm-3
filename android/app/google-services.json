@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "478742713297",
+    "project_id": "love-alarm-54655",
+    "storage_bucket": "love-alarm-54655.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478742713297:android:7d470f8958c485027cc6f0",
+        "android_client_info": {
+          "package_name": "com.example.love_alarm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB40CnJSPvvqQ7fik_9T65ahpMZZzEuFcQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
